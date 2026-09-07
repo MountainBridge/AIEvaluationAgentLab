@@ -1,0 +1,5 @@
+[
+  {"id":"refund-1","input":"What is the refund policy?","expected":{"topic":"refund"}},
+  {"id":"shipping-1","input":"How long is shipping?","expected":{"topic":"shipping"}},
+  {"id":"unknown-1","input":"Tell me about loyalty points.","expected":{"topic":"unknown"}}
+]
